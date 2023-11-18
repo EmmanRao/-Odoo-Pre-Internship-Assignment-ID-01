@@ -1,0 +1,7 @@
+python3==3.11.2
+pip==23.0.1
+python-dateutil
+odoo==16.0
+odoo.exceptions
+odoo.tools
+
